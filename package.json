@@ -67,7 +67,7 @@
     "babel-jest": "^27.4.6",
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "react-native-gesture-handler": "2.30.0",
-    "react-native-reanimated": "3.8.1",
+    "react-native-reanimated": "4.2.2",
     "husky": "^7.0.4",
     "jest": "^27.4.7",
     "lint-staged": "^11.1.2",
@@ -88,7 +88,7 @@
   },
   "resolutions": {
     "@types/react": "*",
-    "react-native-reanimated": "3.8.1"
+    "react-native-reanimated": "4.2.2"
   },
   "jest": {
     "preset": "react-native",
